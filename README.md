@@ -1,2 +1,3 @@
 # hello-world
-hello world repository
+Hi. I am Frank. 
+I am learning about github. This seems very nerdy.
